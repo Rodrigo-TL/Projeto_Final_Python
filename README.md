@@ -20,27 +20,27 @@ Foram encontrados valores ausentes em escolaridade e departamento, além de data
 ## Gráficos
 
 ### Evolução dos funcionários
-![Evolução dos funcionários](resultados/evolucao_funcionarios.png)
+![Evolução dos funcionários](Projeto Final Python/resultados/evolucao_funcionarios.png)
 
 O gráfico compara o total de funcionários registrados e os ativos em cada snapshot semestral. O quadro registrado cresceu ao longo do período analisado.
 
 ### Salário por departamento
-![Salário por departamento](resultados/salario_por_departamento.png)
+![Salário por departamento](Projeto Final Python/resultados/salario_por_departamento.png)
 
 O gráfico compara os salários médios dos funcionários ativos entre departamentos. Operações apresentou a maior média e Vendas, a menor.
 
 ### Admissões por ano
-![Admissões por ano](resultados/admissoes_por_ano.png)
+![Admissões por ano](Projeto Final Python/resultados/admissoes_por_ano.png)
 
 O gráfico mostra a quantidade de funcionários distintos por ano de admissão. Ele permite comparar os anos, mas não representa sozinho o crescimento líquido da equipe.
 
 ### Treinamento e desempenho
-![Treinamento e desempenho](resultados/treinamento_e_desempenho.png)
+![Treinamento e desempenho](Projeto Final Python/resultados/treinamento_e_desempenho.png)
 
 As avaliações médias ficaram próximas entre as faixas de treinamento. Essa comparação é descritiva e não permite afirmar que o treinamento causou diferenças nas avaliações.
 
 ### Status dos funcionários
-![Status dos funcionários](resultados/status_funcionarios.png)
+![Status dos funcionários](Projeto Final Python/resultados/status_funcionarios.png)
 
 O gráfico apresenta os status registrados em 31/12/2023. Os desligados representam 8,15% dos registros desse snapshot.
 
