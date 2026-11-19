@@ -189,7 +189,7 @@ Entre os departamentos informados, as médias variam pouco: de **3.75** a **3.78
 
 ### Quadro por departamento
 
-![Funcionários ativos por departamento](resultados%20analise%20final/quadro por departamento.png)
+![Funcionários ativos por departamento](resultados_analise_final/quadro_por_departamento.png)
 
 O gráfico compara a quantidade de funcionários ativos por departamento no snapshot mais recente; não soma registros históricos.
 
@@ -253,3 +253,4 @@ python main.py
 ```
 
 O programa gera este relatório e os gráficos em `resultados_analise_final/`.
+
